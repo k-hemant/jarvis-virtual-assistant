@@ -14,7 +14,7 @@ webbrowser
 
 # How to Configure ?
 
-First Install the Following Modules
+Install the Following Modules
 
 pip install pyttsx3
 
