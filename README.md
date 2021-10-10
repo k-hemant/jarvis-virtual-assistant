@@ -19,3 +19,5 @@ Install the Following Modules
 pip install pyttsx3
 
 pip install os-sys
+
+After that open jarvis.py to use it.
